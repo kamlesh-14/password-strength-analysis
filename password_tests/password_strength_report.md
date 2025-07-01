@@ -11,8 +11,8 @@ To understand what makes a password strong and evaluate multiple passwords using
 |-----------------|----------|--------------------------------------------------------------------------------|
 | `12345`         | Weak     | Too short, all numeric, very common                                            |
 | `password`      | Weak     | Commonly used, lacks variation, easily guessable                              |
-| `hello123`      | Medium   | Contains letters and numbers, but lacks length and complexity                 |
-| `Cyber$2024`    | Medium   | Includes special character and mix of cases but can be more complex           |
+| `hello@123`      | Medium   | Contains letters and numbers, but lacks length and complexity                 |
+| `Cyber2024`    | Medium   | Includes special character and mix of cases but can be more complex           |
 | `X!t9V@z7M#`    | Strong   | Long, random, contains upper/lowercase, numbers, special characters           |
 | `5uP3r$ecurePwd!`| Strong  | Complex, long, includes symbols, uppercase, lowercase, and numbers            |
 
